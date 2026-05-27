@@ -1,3 +1,3 @@
-- Code for paper: Towards Fair Sequential Decision-Making: A Causal Decomposition Approach
+- Code for paper: A Causal Decomposition Approach for Fair Contextual Multi-Armed Bandits
 
 - Coming soon! 🚀 If you need a copy right now please contact jiajunch@iastate.edu.
